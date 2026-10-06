@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aloosmp.playserver.pro",
+    "ip": "vanillasmpx.playserver.pro",
     "port": 25565,
     "version": "1.21.11",
     "try-creative": false
